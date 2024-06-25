@@ -1,4 +1,4 @@
-##Hi please find my application of the dummy AMAZON Invoice maker(I have used amazon image from google):
+Hi please find my application of the dummy AMAZON Invoice maker(I have used amazon image from google):
 
 Initially you need to download it from GitHub repository which I have used to submit the assignment.
 
